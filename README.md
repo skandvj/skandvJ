@@ -11,8 +11,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-Here’s a modified version based on your resume:
-
 ![Oracle Financial Cloud](https://img.shields.io/badge/-Oracle%20Financial%20Cloud-05122A?style=flat&logo=oracle)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -33,6 +31,41 @@ Here’s a modified version based on your resume:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office)&nbsp;
+
+### 🛠 &nbsp; Business & Management Skills
+
+![SDLC](https://img.shields.io/badge/-SDLC-05122A?style=flat)&nbsp;
+![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-05122A?style=flat)&nbsp;
+![System Design](https://img.shields.io/badge/-System%20Design-05122A?style=flat)&nbsp;
+![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-05122A?style=flat)&nbsp;
+![Product Vision](https://img.shields.io/badge/-Product%20Vision-05122A?style=flat)&nbsp;
+![Negotiation](https://img.shields.io/badge/-Negotiation-05122A?style=flat)&nbsp;
+![Strategic Thinking](https://img.shields.io/badge/-Strategic%20Thinking-05122A?style=flat)&nbsp;
+![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-05122A?style=flat)&nbsp;
+![Software Development Lifecycle](https://img.shields.io/badge/-Software%20Development%20Lifecycle-05122A?style=flat)&nbsp;
+![Project Management](https://img.shields.io/badge/-Project%20Management-05122A?style=flat)&nbsp;
+![Product Roadmap](https://img.shields.io/badge/-Product%20Roadmap-05122A?style=flat)&nbsp;
+![Data-Driven Insights](https://img.shields.io/badge/-Data--Driven%20Insights-05122A?style=flat)&nbsp;
+![DevOps](https://img.shields.io/badge/-DevOps-05122A?style=flat&logo=devops)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat)&nbsp;
+![MVP Development](https://img.shields.io/badge/-MVP%20Development-05122A?style=flat)&nbsp;
+![Database Design](https://img.shields.io/badge/-Database%20Design-05122A?style=flat)&nbsp;
+![Stakeholder Collaboration](https://img.shields.io/badge/-Stakeholder%20Collaboration-05122A?style=flat)&nbsp;
+![Financial Analysis](https://img.shields.io/badge/-Financial%20Analysis-05122A?style=flat)&nbsp;
+
+
+### 🛠 &nbsp; Tools
+![Oracle Financial Fusion Cloud](https://img.shields.io/badge/-Oracle%20Financial%20Fusion%20Cloud-05122A?style=flat&logo=oracle)&nbsp;
+![Oracle ERP](https://img.shields.io/badge/-Oracle%20ERP-05122A?style=flat&logo=oracle)&nbsp;
+![Oracle E-Business Suite](https://img.shields.io/badge/-Oracle%20E--Business%20Suite-05122A?style=flat&logo=oracle)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
+![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-05122A?style=flat&logo=oracle)&nbsp;
+![System Design](https://img.shields.io/badge/-System%20Design-05122A?style=flat)&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow)&nbsp;
+
+
+
 
 
 
