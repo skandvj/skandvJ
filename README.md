@@ -11,24 +11,28 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Oracle Fusion Financial Cloud](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+Here’s a modified version based on your resume:
+
+![Oracle Financial Cloud](https://img.shields.io/badge/-Oracle%20Financial%20Cloud-05122A?style=flat&logo=oracle)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Oracle SQL](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket.io)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office)&nbsp;
 
 
 
