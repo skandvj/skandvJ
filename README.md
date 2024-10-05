@@ -1,6 +1,6 @@
 
 # Hi, I'm Skand 👨🏻‍💻
-### I’m a Grad student at Carnegie Mellon University, currently pursuing a Maste’s degree in Information Systems Management.
+### I’m a Grad student at Carnegie Mellon University, currently pursuing a Master’s degree in Information Systems Management.
  
 <!-- <a href="https://www.linkedin.com/in/gitanshwadhwa/">
   <img align="left" alt="Gitansh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
