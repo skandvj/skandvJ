@@ -74,7 +74,7 @@ Master's in Information Systems Management | Future Product Leader | AI x Cloud 
 
 - [NLP Powered - Duplicate Job Posting Detector](https://github.com/skandvj/duplicate-job-posting-detection) - Advanced ML solution designed to identify duplicate job postings using state-of-the-art NLP.
 - [AI Agents based Story and Illustration Generator](https://github.com/skandvj/AI-Agents-for-Illustrations-and-Story-Generation) — Modular Dify agents generating illustrated children's storybooks.
-- [Sketch2Product]([https://skandvijay.me](https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images) — AI platform converting hand-drawn sketches into production-ready visuals.
+- [Sketch2Product](https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images) — AI platform converting hand-drawn sketches into production-ready visuals.
 
 
 ### 📚 Currently Learning
