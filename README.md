@@ -69,13 +69,6 @@ Master's in Information Systems Management | Future Product Leader | AI x Cloud 
 - Leading cross-functional teams to ship ML/AI features in production
 - Exploring cloud-native AI infrastructure (Kubernetes + AWS Sagemaker)
 
-### 🏆 Achievements and Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skandvj&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🌟 Featured Projects
 
@@ -83,7 +76,6 @@ Master's in Information Systems Management | Future Product Leader | AI x Cloud 
 - [AI Agents based Story and Illustration Generator](https://github.com/skandvj/AI-Agents-for-Illustrations-and-Story-Generation) — Modular Dify agents generating illustrated children's storybooks.
 - [Sketch2Product]([https://skandvijay.me](https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images) — AI platform converting hand-drawn sketches into production-ready visuals.
 
----
 
 ### 📚 Currently Learning
 
@@ -95,12 +87,18 @@ Master's in Information Systems Management | Future Product Leader | AI x Cloud 
 
 ---
 
----
 
 ### ✨ Let's Connect
 
 - 🚀 [Portfolio](https://skandvijay.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/skandvijay/)
 - 📫 DM me if you’re building with AI, cloud, or data!
+
+---
+### 🏆 Achievements and Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skandvj&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
