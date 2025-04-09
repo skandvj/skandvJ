@@ -69,6 +69,31 @@ Master's in Information Systems Management | Future Product Leader | AI x Cloud 
 - Leading cross-functional teams to ship ML/AI features in production
 - Exploring cloud-native AI infrastructure (Kubernetes + AWS Sagemaker)
 
+### 🏆 Achievements and Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skandvj&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+- [NLP Powered - Duplicate Job Posting Detector](https://github.com/skandvj/duplicate-job-posting-detection) - Advanced ML solution designed to identify duplicate job postings using state-of-the-art NLP.
+- [AI Agents based Story and Illustration Generator](https://github.com/skandvj/AI-Agents-for-Illustrations-and-Story-Generation) — Modular Dify agents generating illustrated children's storybooks.
+- [Sketch2Product]([https://skandvijay.me](https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images) — AI platform converting hand-drawn sketches into production-ready visuals.
+
+---
+
+### 📚 Currently Learning
+
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)&nbsp;
+![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-05122A?style=flat)&nbsp;
+![MLOps](https://img.shields.io/badge/-MLOps-05122A?style=flat)&nbsp;
+![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-05122A?style=flat)&nbsp;
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-05122A?style=flat)
+
+---
 
 ---
 
