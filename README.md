@@ -1,79 +1,91 @@
+# Hi, I'm Skand Vijay 👨🏻‍💻
 
-# Hi, I'm Skand 👨🏻‍💻
-### I’m a Grad student at Carnegie Mellon University, currently pursuing a Master’s degree in Information Systems Management.
- 
-<!-- <a href="https://www.linkedin.com/in/gitanshwadhwa/">
-  <img align="left" alt="Gitansh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/gitanshwadhwa28">
-  <img align="left" alt="Gitansh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</br> -->
+### 🎓 Graduate Student @ Carnegie Mellon University  
+Master's in Information Systems Management | Future Product Leader | AI x Cloud x Business Strategy
 
-### 🛠 &nbsp;Tech Stack
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://skandvijay.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skandvijay/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/skandvj)
 
-![Oracle Financial Cloud](https://img.shields.io/badge/-Oracle%20Financial%20Cloud-05122A?style=flat&logo=oracle)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+---
+
+### 🛠️ Tech Stack
+
+**Programming Languages:**  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; <!-- Rare for backend PMs -->
+
+**AI & Machine Learning:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)&nbsp; <!-- Rare and trending for LLM apps -->
+![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-05122A?style=flat)&nbsp; <!-- Rare (RAG systems) -->
+![OpenAI APIs](https://img.shields.io/badge/-OpenAI%20APIs-05122A?style=flat)&nbsp;
+![RAG Systems](https://img.shields.io/badge/-RAG%20Systems-05122A?style=flat)&nbsp;
 
-### 🛠 &nbsp; Business & Management Skills
+**Cloud Platforms & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; <!-- Rare if PMs know K8s -->
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
 
-![SDLC](https://img.shields.io/badge/-SDLC-05122A?style=flat)&nbsp;
-![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-05122A?style=flat)&nbsp;
-![System Design](https://img.shields.io/badge/-System%20Design-05122A?style=flat)&nbsp;
-![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-05122A?style=flat)&nbsp;
-![Product Vision](https://img.shields.io/badge/-Product%20Vision-05122A?style=flat)&nbsp;
-![Negotiation](https://img.shields.io/badge/-Negotiation-05122A?style=flat)&nbsp;
-![Strategic Thinking](https://img.shields.io/badge/-Strategic%20Thinking-05122A?style=flat)&nbsp;
-![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-05122A?style=flat)&nbsp;
-![Software Development Lifecycle](https://img.shields.io/badge/-Software%20Development%20Lifecycle-05122A?style=flat)&nbsp;
-![Project Management](https://img.shields.io/badge/-Project%20Management-05122A?style=flat)&nbsp;
-![Product Roadmap](https://img.shields.io/badge/-Product%20Roadmap-05122A?style=flat)&nbsp;
-![Data-Driven Insights](https://img.shields.io/badge/-Data--Driven%20Insights-05122A?style=flat)&nbsp;
-![DevOps](https://img.shields.io/badge/-DevOps-05122A?style=flat&logo=devops)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat)&nbsp;
-![MVP Development](https://img.shields.io/badge/-MVP%20Development-05122A?style=flat)&nbsp;
-![Database Design](https://img.shields.io/badge/-Database%20Design-05122A?style=flat)&nbsp;
-![Stakeholder Collaboration](https://img.shields.io/badge/-Stakeholder%20Collaboration-05122A?style=flat)&nbsp;
-![Financial Analysis](https://img.shields.io/badge/-Financial%20Analysis-05122A?style=flat)&nbsp;
+**Systems and Data:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Oracle ERP Cloud](https://img.shields.io/badge/-Oracle%20ERP%20Cloud-05122A?style=flat&logo=oracle)&nbsp;
 
+---
 
-### 🛠 &nbsp; Tools
-![Oracle Financial Fusion Cloud](https://img.shields.io/badge/-Oracle%20Financial%20Fusion%20Cloud-05122A?style=flat&logo=oracle)&nbsp;
-![Oracle ERP](https://img.shields.io/badge/-Oracle%20ERP-05122A?style=flat&logo=oracle)&nbsp;
-![Oracle E-Business Suite](https://img.shields.io/badge/-Oracle%20E--Business%20Suite-05122A?style=flat&logo=oracle)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
-![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-05122A?style=flat&logo=oracle)&nbsp;
-![System Design](https://img.shields.io/badge/-System%20Design-05122A?style=flat)&nbsp;
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow)&nbsp;
+### 📈 Business, Strategy & Product Management
 
+![Agile Methodology](https://img.shields.io/badge/-Agile-05122A?style=flat)&nbsp;
+![Product Lifecycle Management (PLM)](https://img.shields.io/badge/-Product%20Lifecycle%20Management-05122A?style=flat)&nbsp;
+![Technical Product Management](https://img.shields.io/badge/-Technical%20Product%20Management-05122A?style=flat)&nbsp; <!-- Very high demand -->
+![Go-to-Market Strategy](https://img.shields.io/badge/-Go--to--Market%20Strategy-05122A?style=flat)&nbsp;
+![AI Governance](https://img.shields.io/badge/-AI%20Governance-05122A?style=flat)&nbsp; <!-- Rare skill -->
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-05122A?style=flat)&nbsp; <!-- Rare + booming -->
 
+---
 
+### 🔥 Rare Expertise
 
+- **Autonomous Agents** (AutoGPT, BabyAGI)
+- **LLM Application Architectures** (LangChain, RAG)
+- **AI SaaS Development**
+- **Vector Search & Retrieval-Augmented Generation (RAG) Systems**
+- **MLOps (Model Deployment and Monitoring)**
+- **API-first Product Development**
+- **Building Data-Driven User Personas for AI Products**
 
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📚 Current Focus
+
+- Developing AI-native products at scale
+- Building and deploying LLM applications with real-world users
+- Leading cross-functional teams to ship ML/AI features in production
+- Exploring cloud-native AI infrastructure (Kubernetes + AWS Sagemaker)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/gitanshwadhwa28">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitanshwadhwa28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitanshwadhwa28&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/skandvj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skandvj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skandvj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+### ✨ Let's Connect
+
+- 🚀 [Portfolio](https://skandvijay.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/skandvijay/)
+- 📫 DM me if you’re building with AI, cloud, or data!
+
+---
