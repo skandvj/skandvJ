@@ -1,10 +1,9 @@
 <div align="center">
+<div align="center">
 
 # Skand Vijay
 
-**Carnegie Mellon University · M.S. Information Systems Management**
-
-Strategy · Engineering · AI Systems · Client Delivery
+CMU · AI Systems · Product · Engineering
 
 <br/>
 
@@ -12,8 +11,11 @@ Strategy · Engineering · AI Systems · Client Delivery
 [![Portfolio](https://img.shields.io/badge/skandvijay.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skandvijay.me)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
-</div>
+<br/>
 
+*I build things that work. Then I scale them.*
+
+</div>
 <br/>
 
 <table>
