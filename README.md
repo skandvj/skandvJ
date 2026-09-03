@@ -3,7 +3,7 @@
 
 # Skand Vijay
 
-CMU · AI Systems · Product · Engineering
+CMU · AI Systems · Engineering
 
 <br/>
 
