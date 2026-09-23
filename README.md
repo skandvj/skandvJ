@@ -8,7 +8,7 @@ CMU · AI Systems · Engineering
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skand-vijay-4382729b)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/skandvijay.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skandvijay.COM)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/skandvijay.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skandvijay.com)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 <br/>
